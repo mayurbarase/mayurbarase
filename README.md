@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Mayur 👋
 
-<!--
-**mayurbarase/mayurbarase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Excel • SQL • Python • Power BI 📊
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst currently building my skills in Excel, SQL, Python and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with raw data, finding patterns and turning them into clear visual insights.
+
+## 📊 Featured Projects
+
+### 1. Sales Performance Dashboard — Excel
+Interactive sales dashboard analyzing:
+- Regional performance
+- Category-wise sales and profit
+- Shipping modes
+- Monthly sales trends
+- Interactive slicers
+
+### 2. Employee Attrition & HR Analytics — Excel
+Interactive HR dashboard analyzing:
+- Employee attrition
+- Departments and job roles
+- Age groups
+- Salary ranges
+- Employee tenure
+- Job satisfaction
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- PivotTables & PivotCharts
+- Excel Dashboards
+- SQL
+- Python
+- Power BI
+
+## 📚 Currently Learning
+
+- Advanced Excel
+- SQL
+- Python for Data Analysis
+- Power BI
+- Business Intelligence
+
+## 🎯 Career Interests
+
+I'm interested in Data Analyst, Business Analyst and Business Intelligence opportunities where I can apply analytical thinking to real-world business problems.
+
+## 🚀 My Approach
+
+**Learn → Build → Analyze → Document → Improve**
+
+I'm continuously building hands-on projects to strengthen my data analytics skills.
+
+---
+
+⭐ Thanks for visiting my profile!
